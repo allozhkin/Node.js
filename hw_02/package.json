@@ -1,12 +1,13 @@
 {
   "name": "hw_02",
   "version": "1.0.0",
-  "description": "",
+  "description": "Package can help you with arrays",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["math","array"],
   "author": "allozhkin",
+  "repository": "https://github.com/allozhkin/Node.js/tree/main/hw_02",
   "license": "ISC"
 }
